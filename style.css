@@ -16,7 +16,6 @@ body {
 }
 
 video {
-  height: 30vh;
-  width: 50vw;
-  background-color: black;
+  height: 40vh;
+  width: 60vw;
 }
